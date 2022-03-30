@@ -1,2 +1,2 @@
-# AngularJs
+# Assignment1
 Assignments
